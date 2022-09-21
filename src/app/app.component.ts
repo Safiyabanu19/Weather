@@ -14,6 +14,6 @@ import { SidebarComponent } from "./sidebar/sidebar.component";
 export class AppComponent {
     public title:string;
     constructor () {
-        this.title = `Finding Weather`;
+        this.title = `Finding Weather`;//Finding weather
     }
 }
